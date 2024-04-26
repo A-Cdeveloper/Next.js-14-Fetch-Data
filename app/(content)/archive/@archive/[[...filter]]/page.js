@@ -6,7 +6,6 @@ import {
   getNewsForYearAndMonth,
 } from "@/lib/news";
 import Link from "next/link";
-import { notFound } from "next/navigation";
 
 const FilteredNewsPage = ({ params }) => {
   const { filter } = params;

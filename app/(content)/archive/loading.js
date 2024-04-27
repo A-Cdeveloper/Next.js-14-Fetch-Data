@@ -1,7 +1,7 @@
 import React from "react";
 
 const LoadingNews = () => {
-  return <h2>Laoding22...</h2>;
+  return <h2>Loading resurces...</h2>;
 };
 
 export default LoadingNews;
